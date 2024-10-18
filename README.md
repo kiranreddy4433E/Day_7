@@ -14,7 +14,7 @@ Welcome to **Day 7** of my **100 Days of Code Challenge**! Today, I implemented 
 - **Concepts:** Leap Year Calculation, Conditional Statements, Input Handling
 
 ## 🔗 Links to Code
-- [https://github.com/kiranreddy4433E/Day_7/blob/main/pro_19.java](#link-to-repository): This repository contains the code solution for finding the number of days in a month for a given year.
+- [Day 7 Code Repository](https://github.com/kiranreddy4433E/Day_7/blob/main/pro_19.java): This repository contains the code solution for finding the number of days in a month for a given year.
 
 ## 📖 Problem Description
 - The task is to take two inputs: a **month** and a **year**, and return the number of days in that month for the given year. For February, the program should check if the year is a leap year.
@@ -101,11 +101,12 @@ public class pro_19 {
 
 ### 🖥️ Program Output
 
-Enter month:- 
-2
-Enter year:- 
-2000
-29-Days
+- Enter month: 
+- 2
+- Enter year: 
+- 2000
+- 29 Days
+
 
 
 ---
@@ -123,9 +124,9 @@ The main challenge was ensuring that the leap year logic was correctly implement
 ---
 
 ### 📬 Connect with me
--Email: kiranreddy4746@gmail.com
--LinkedIn: https://www.linkedin.com/in/chandra-kiran-reddy-reddycharla-a9a746230/
--Twitter: @kiran4746
+- Email: kiranreddy4746@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chandra-kiran-reddy-reddycharla-a9a746230/
+- Twitter: @kiran4746
 
 ---
 
